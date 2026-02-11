@@ -1,6 +1,6 @@
 # STM32F4_SPECTRUM_WS2812
 
-Major shout out, credit to, and recognition of, Tony DiCola for his work in the Adafruit Spectrum Project and to Lars Boegild Thomsen for his tutorial on using WS2812 on the STM32.
+Major shout out, credit to, and recognition of, Tony DiCola for his work in the Adafruit Spectrum Project and to Lars Boegild Thomsen for his tutorial and work on using WS2812 on the STM32.
 
 Other credit for informative tutorials that provided excellent resources are ControllersTech, Phil's Lab, and STM. 
 
